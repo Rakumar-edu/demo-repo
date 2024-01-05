@@ -1,1 +1,1 @@
-Hi THis is a sample first file
+Hi, this is a sample first file!
